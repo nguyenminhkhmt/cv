@@ -1,4 +1,4 @@
-1 Ice-cream 11111
+1 Ice-cream + 1 more ice-cream
 2 Notebook
 3 Pencils
 4 Eggs
