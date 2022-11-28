@@ -1,6 +1,0 @@
-1 Ice-cream + 1 more ice-cream. Solve conflict
-2 Notebook
-3 Pencils
-4 Eggs
-5 Others
-6 Something :) :) :) :)
